@@ -4,3 +4,4 @@ public class HelloWorld {
         System.out.println("Hello, World");
     }
 }
+//รีบทำให้เสร็จเร็ว
